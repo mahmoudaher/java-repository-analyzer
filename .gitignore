@@ -1,0 +1,18 @@
+# Build output
+/target/
+/bin/
+/out/
+
+# IDE metadata
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local analysis output
+/reports/
